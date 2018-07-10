@@ -1,9 +1,7 @@
 Image processing practise with OpenCV for Python2.7
 
-This repository contains 3 practises:
+This repository contains 2 practises:
 
-The first one is reading the image and cropping it to 16 pieces and puting them together in one image file
+The first one is takes 5 photos and saves them
 
-The second one is takes 5 photos and saves them
-
-The third one is makes an object editable
+The second one is makes an object editable
